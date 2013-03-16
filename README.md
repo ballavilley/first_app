@@ -1,3 +1,9 @@
+# Ruby on Rails Tutorial: frist applicaiton
+
+This is the first application for
+[*Ruby on Rails Tutorial: Learn Rails by Example*] (http://railstutorial.org/)
+by [Michael Hartle].
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
